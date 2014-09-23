@@ -1,6 +1,6 @@
 # hubot-nozakikun
 
-A Hubot script that returns the "月刊少女野崎くん" special Twitter icons
+A Hubot script that returns the "[月刊少女野崎くん](http://nozakikun.tv/)" special Twitter icons
 
 ![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140923/20140923234624.gif)
 
