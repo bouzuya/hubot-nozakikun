@@ -2,6 +2,8 @@
 
 A Hubot script that returns the "月刊少女野崎くん" special Twitter icons
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140923/20140923234624.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-nozakikun.git
