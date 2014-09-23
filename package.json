@@ -1,6 +1,6 @@
 {
   "name": "hubot-nozakikun",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that returns the \"月刊少女野崎くん\" special Twitter icons",
   "main": "index.js",
   "scripts": {
